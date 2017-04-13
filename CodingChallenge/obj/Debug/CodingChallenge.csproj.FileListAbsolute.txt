@@ -1,0 +1,9 @@
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe.config
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.pdb
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.Form1.resources
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.Properties.Resources.resources
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.exe
+C:\Users\Nathan\Desktop\CIS 397\Coding Challenge\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.pdb
